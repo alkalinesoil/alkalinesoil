@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alkalinesoil
 - 👀 I’m interested in learning to program
-- 🌱 I’m currently learning iOS and Python
+- 🌱 I’m currently learning iOS and Python and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cvanorman99@gmail.com
 
